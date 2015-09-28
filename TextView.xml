@@ -1,0 +1,6 @@
+<TextView
+     android:text="oh the possibilities of TextView"
+     android:layout_width="400dp"
+     android:layout_height="700dp"
+     android:textSize="36sp"
+     android:textStyle="bold" />

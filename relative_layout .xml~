@@ -1,0 +1,11 @@
+# Relative To Parent
+# ImageView attributes !
+# /home/madhav/Pictures/Link to Screenshot from 2015-08-21 12:52:03.png
+
+android:layout_align Parent Top = "true"
+
+android:layout_align Parent Bottom = "false"
+
+android:layout_align Parent Left = "true"
+
+android:layout_align Parent Right = "true"
